@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognaAPI", "CognaAPI.csproj", "{599E32B4-57CF-4B74-9B5B-317D9F8BD5A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Application", "1-Application", "{F104724C-AAE8-41D0-ADF3-ABFA23A2A4B7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Domain", "2-Domain", "{750FD003-B5D9-48B5-AB22-93EB36D08A18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Service", "3-Service", "{9E6F82CD-8817-43CE-B88B-4BED68D8F4B9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4-Infra", "4-Infra", "{8E62867A-F696-45F5-93C1-FF46384F9072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognaAPI.Domain", "..\CognaAPI.Domain\CognaAPI.Domain.csproj", "{4722457E-72C9-4E75-851C-9F95A235F764}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognaAPI.Service", "..\CognaAPI.Service\CognaAPI.Service.csproj", "{C813A113-BFEC-461D-B99D-2E9EAF1DE952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CognaAPI.Infra", "..\CognaAPI.Infra\CognaAPI.Infra.csproj", "{1698ECF9-83D8-4C72-89CB-457EEFB8FC7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599E32B4-57CF-4B74-9B5B-317D9F8BD5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599E32B4-57CF-4B74-9B5B-317D9F8BD5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599E32B4-57CF-4B74-9B5B-317D9F8BD5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599E32B4-57CF-4B74-9B5B-317D9F8BD5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4722457E-72C9-4E75-851C-9F95A235F764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4722457E-72C9-4E75-851C-9F95A235F764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4722457E-72C9-4E75-851C-9F95A235F764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4722457E-72C9-4E75-851C-9F95A235F764}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C813A113-BFEC-461D-B99D-2E9EAF1DE952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C813A113-BFEC-461D-B99D-2E9EAF1DE952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C813A113-BFEC-461D-B99D-2E9EAF1DE952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C813A113-BFEC-461D-B99D-2E9EAF1DE952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1698ECF9-83D8-4C72-89CB-457EEFB8FC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1698ECF9-83D8-4C72-89CB-457EEFB8FC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1698ECF9-83D8-4C72-89CB-457EEFB8FC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1698ECF9-83D8-4C72-89CB-457EEFB8FC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{599E32B4-57CF-4B74-9B5B-317D9F8BD5A9} = {F104724C-AAE8-41D0-ADF3-ABFA23A2A4B7}
+		{4722457E-72C9-4E75-851C-9F95A235F764} = {750FD003-B5D9-48B5-AB22-93EB36D08A18}
+		{C813A113-BFEC-461D-B99D-2E9EAF1DE952} = {9E6F82CD-8817-43CE-B88B-4BED68D8F4B9}
+		{1698ECF9-83D8-4C72-89CB-457EEFB8FC7E} = {8E62867A-F696-45F5-93C1-FF46384F9072}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFE948BE-9022-421B-8DBF-C92805A6E333}
+	EndGlobalSection
+EndGlobal

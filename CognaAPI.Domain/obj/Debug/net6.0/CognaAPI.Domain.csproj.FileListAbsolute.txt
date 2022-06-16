@@ -1,0 +1,12 @@
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\bin\Debug\net6.0\CognaAPI.Domain.deps.json
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\bin\Debug\net6.0\CognaAPI.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\bin\Debug\net6.0\ref\CognaAPI.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\bin\Debug\net6.0\CognaAPI.Domain.pdb
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.csproj.AssemblyReference.cache
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.AssemblyInfoInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.AssemblyInfo.cs
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\ref\CognaAPI.Domain.dll
+D:\Arquivos\PROJETOS PESSOAIS\API Trabalho\CognaAPI.Domain\obj\Debug\net6.0\CognaAPI.Domain.pdb
